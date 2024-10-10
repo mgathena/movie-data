@@ -1,97 +1,87 @@
-Director,Movie,Genre,Year,Duration
-Christopher Nolan,Inception,Sci-Fi,2010,148
-Steven Spielberg,Jurassic Park,Sci-Fi,1993,127
-Quentin Tarantino,Pulp Fiction,Crime,1994,154
-James Cameron,Avatar,Sci-Fi,2009,162
-Denis Villeneuve,Blade Runner 2049,Sci-Fi,2017,164
-Ridley Scott,Gladiator,Action,2000,155
-Bong Joon-ho,Parasite,Thriller,2019,132
-Alfred Hitchcock,Psycho,Horror,1960,109
-Peter Jackson,The Fellowship of the Ring,Fantasy,2001,178
-Sofia Coppola,Lost in Translation,Drama,2003,102
-Stanley Kubrick,2001 - A Space Odyssey,Sci-Fi,1968,149
-Jordan Peele,Get Out,Horror,2017,104
-Francis Ford Coppola,The Godfather,Crime,1972,175
-Clint Eastwood,Unforgiven,Western,1992,131
-Wes Anderson,The Grand Budapest Hotel,Comedy,2014,99
-David Fincher,Fight Club,Drama,1999,139
-Patty Jenkins,Wonder Woman,Action,2017,141
-Paul Thomas Anderson,There Will Be Blood,Drama,2007,158
-George Lucas,Star Wars,Sci-Fi,1977,121
-Joel Coen,Fargo,Crime,1996,98
-David Lynch,Mulholland Drive,Thriller,2001,147
-Alejandro González Iñárritu,Birdman,Comedy,2014,119
-Christopher Nolan,The Dark Knight,Action,2008,152
-Ron Howard,A Beautiful Mind,Biography,2001,135
-M. Night Shyamalan,The Sixth Sense,Mystery,1999,107
-Edgar Wright,Baby Driver,Action,2017,113
-Spike Lee,Do the Right Thing,Drama,1989,120
-Guillermo del Toro,Pan's Labyrinth,Fantasy,2006,118
-James Wan,The Conjuring,Horror,2013,112
-Sergio Leone,The Good the Bad and the Ugly,Western,1966,178
-Sam Mendes,1917,War,2019,119
-Michael Bay,Transformers,Sci-Fi,2007,144
-Kathryn Bigelow,The Hurt Locker,War,2008,131
-Robert Zemeckis,Forrest Gump,Romance,1994,142
-Damien Chazelle,La La Land,Comedy,2016,128
-Tim Burton,Edward Scissorhands,Fantasy,1990,105
-John Carpenter,Halloween,Thriller,1978,91
-Guy Ritchie,Snatch,Crime,2000,104
-Gore Verbinski,The Curse of the Black Pearl,Fantasy,2003,143
-Richard Linklater,Boyhood,Drama,2014,165
-John Hughes,The Breakfast Club,Comedy,1985,97
-Mel Gibson,Braveheart,War,1995,178
-Frank Darabont,The Shawshank Redemption,Drama,1994,142
-Ang Lee,Life of Pi,Adventure,2012,127
-Robert Eggers,The Witch,Horror,2015,92
-Paul Greengrass,Captain Phillips,Adventure,2013,134
-Matthew Vaughn,Kingsman - The Secret Service,Action,2014,129
-Penny Marshall,Big,Comedy,1988,104
-Luc Besson,The Fifth Element,Sci-Fi,1997,126
-Zack Snyder,300,Action,2006,117
-David O. Russell,Silver Linings Playbook,Romance,2012,122
-Alfonso Cuarón,Gravity,Sci-Fi,2013,91
-Jon Favreau,Iron Man,Sci-Fi,2008,126
-Brad Bird,The Incredibles,Animation,2004,115
-Joe Russo,Avengers - Endgame,Action,2019,181
-Bryan Singer,X-Men,Sci-Fi,2000,104
-Neill Blomkamp,District 9,Sci-Fi,2009,112
-Peter Weir,The Truman Show,Comedy,1998,103
-Steven Soderbergh,Ocean's Eleven,Comedy,2001,116
-John McTiernan,Die Hard,Thriller,1988,132
-Jon Turteltaub,National Treasure,Action,2004,131
-Baz Luhrmann,Moulin Rouge!,Musical,2001,127
-Jean-Pierre Jeunet,Amélie,Comedy,2001,122
-Pete Docter,Inside Out,Animation,2015,95
-Akira Kurosawa,Seven Samurai,Action,1954,207
-Stanley Donen,Singin' in the Rain,Musical,1952,103
-Roman Polanski,Chinatown,Crime,1974,130
-Christopher McQuarrie,Mission Impossible - Fallout,Action,2018,147
-Seth MacFarlane,Ted,Comedy,2012,106
-Martin McDonagh,Three Billboards Outside Ebbing Missouri,Crime,2017,115
-Richard Donner,Superman,Action,1978,143
-Ridley Scott,Alien,Sci-Fi,1979,117
-Herbert Ross,Footloose,Musical,1984,107
-Sydney Pollack,Out of Africa,Biography,1985,161
-Kenneth Branagh,Belfast,Drama,2021,98
-Tom McCarthy,Spotlight,Biography,2015,129
-Peter Farrelly,Green Book,Biography,2018,130
-Jean-Marc Vallée,Dallas Buyers Club,Biography,2013,117
-Woody Allen,Annie Hall,Comedy,1977,93
-Danny Boyle,Slumdog Millionaire,Romance,2008,120
-Joel Schumacher,Batman Forever,Action,1995,121
-Robert Rodriguez,Sin City,Action,2005,124
-John Ford,The Searchers,Western,1956,119
-Mike Nichols,The Graduate,Comedy,1967,106
-Terrence Malick,The Tree of Life,Fantasy,2011,139
-Orson Welles,Citizen Kane,Mystery,1941,119
-Woody Allen,Midnight in Paris,Comedy,2011,94
-Taika Waititi,Jojo Rabbit,Comedy,2019,108
-Todd Phillips,Joker,Crime,2019,122
-James Gunn,Guardians of the Galaxy,Action,2014,121
-Adam McKay,The Big Short,Comedy,2015,130
-Sam Raimi,Spider-Man 2,Action,2004,127
-Michael Mann,Heat,Crime,1995,170
-Terry Gilliam,Brazil,Sci-Fi,1985,132
-Steven Spielberg,E.T. the Extra-Terrestrial,Adventure,1982,115
-Mel Brooks,Young Frankenstein,Horror,1974,106
+Director,Movie,Genre,Year,Duration,Tagline
+Christopher Nolan,Inception,Sci-Fi,2010,148,Your mind is the scene of the crime.
+Steven Spielberg,Jurassic Park,Sci-Fi,1993,127,An adventure 65 million years in the making.
+Quentin Tarantino,Pulp Fiction,Crime,1994,154,The classics never go out of style.
+James Cameron,Avatar,Sci-Fi,2009,162,Enter the world of Pandora.
+Denis Villeneuve,Blade Runner 2049,Sci-Fi,2017,164,Shadows of the past haunt the future.
+Ridley Scott,Gladiator,Action,2000,155,What we do in life echoes in eternity.
+Bong Joon-ho,Parasite,Thriller,2019,132,Fate brought them together. Truth will tear them apart.
+Alfred Hitchcock,Psycho,Horror,1960,109,Everyone has a reason to be afraid.
+Peter Jackson,The Fellowship of the Ring,Fantasy,2001,178,One ring to rule them all.
+Sofia Coppola,Lost in Translation,Drama,2003,102,There's something special about this place.
+Stanley Kubrick,2001 - A Space Odyssey,Sci-Fi,1968,149,The ultimate trip.
+Jordan Peele,Get Out,Horror,2017,104,Get out while you can.
+Francis Ford Coppola,The Godfather,Crime,1972,175,An offer you can't refuse.
+Clint Eastwood,Unforgiven,Western,1992,131,Revenge is a dish best served cold.
+Wes Anderson,The Grand Budapest Hotel,Comedy,2014,99,Welcome to the Hotel Mon Plaisir.
+David Fincher,Fight Club,Drama,1999,139,How far would you go to protect your family?
+Patty Jenkins,Wonder Woman,Action,2017,141,An ancient prophecy. A new hero.
+Paul Thomas Anderson,There Will Be Blood,Drama,2007,158,The perfect crime is just the beginning.
+George Lucas,Star Wars,Sci-Fi,1977,121,Life is full of surprises.
+Joel Coen,Fargo,Crime,1996,98,These streets will make you feel brand new.
+David Lynch,Mulholland Drive,Thriller,2001,147,Fantasy is a place where a kid can be a kid.
+Alejandro González Iñárritu,Birdman,Comedy,2014,119,Hope is a dangerous thing.
+Christopher Nolan,The Dark Knight,Action,2008,152,Feel the fear. Join the fight.
+Ron Howard,A Beautiful Mind,Biography,2001,135,"Out of the darkness, hope shines bright."
+M. Night Shyamalan,The Sixth Sense,Mystery,1999,107,Sometimes the scariest place to be is in your own head.
+Edgar Wright,Baby Driver,Action,2017,113,Who says you can't be a hero?
+Spike Lee,Do the Right Thing,Drama,1989,120,Time waits for no one.
+Guillermo del Toro,Pan's Labyrinth,Fantasy,2006,118,Nothing is what it seems.
+James Wan,The Conjuring,Horror,2013,112,Welcome to the dark side.
+Sergio Leone,The Good the Bad and the Ugly,Western,1966,178,You can't escape the past.
+Sam Mendes,1917,War,2019,119,Not every battle is fought with weapons.
+Michael Bay,Transformers,Sci-Fi,2007,144,All's fair in love and war.
+Kathryn Bigelow,The Hurt Locker,War,2008,131,Based on a true story.
+Robert Zemeckis,Forrest Gump,Romance,1994,142,A journey through the life of a boy.
+Damien Chazelle,La La Land,Comedy,2016,128,Some legends never die.
+Tim Burton,Edward Scissorhands,Fantasy,1990,105,Dreams come true in the unlikeliest of places.
+John Carpenter,Halloween,Thriller,1978,91,"Sometimes, the truth is stranger than fiction."
+Guy Ritchie,Snatch,Crime,2000,104,Love can be the strongest weapon.
+Gore Verbinski,The Curse of the Black Pearl,Fantasy,2003,143,Three strangers on a journey toward self-discovery.
+Richard Linklater,Boyhood,Drama,2014,165,History is made by those who dare to defy the odds.
+John Hughes,The Breakfast Club,Comedy,1985,97,Every moment matters.
+Mel Gibson,Braveheart,War,1995,178,Change is the only constant.
+Frank Darabont,The Shawshank Redemption,Drama,1994,142,"Out of the darkness, hope shines bright."
+Ang Lee,Life of Pi,Adventure,2012,127,Sometimes you just have to take a leap of faith.
+Robert Eggers,The Witch,Horror,2015,92,The power of imagination is limitless.
+Paul Greengrass,Captain Phillips,Adventure,2013,134,Life can change in the blink of an eye.
+Matthew Vaughn,Kingsman - The Secret Service,Action,2014,129,The greatest adventure of all is the one you create.
+Penny Marshall,Big,Comedy,1988,104,"Redemption is a journey, not a destination."
+Luc Besson,The Fifth Element,Sci-Fi,1997,126,Believe in the impossible.
+Zack Snyder,300,Action,2006,117,"Every story has a beginning, middle, and end."
+David O. Russell,Silver Linings Playbook,Romance,2012,122,Revel in the absurdity of life.
+Alfonso Cuarón,Gravity,Sci-Fi,2013,91,Some paths are meant to be traveled alone.
+Jon Favreau,Iron Man,Sci-Fi,2008,126,True love knows no bounds.
+Brad Bird,The Incredibles,Animation,2004,115,Welcome to a world where anything can happen.
+Akira Kurosawa,Seven Samurai,Action,1954,207,The past is never truly gone.
+Stanley Donen,Singin' in the Rain,Musical,1952,103,Not every battle is fought with weapons.
+Roman Polanski,Chinatown,Crime,1974,130,The power of belief can move mountains.
+Christopher McQuarrie,Mission Impossible - Fallout,Action,2018,147,Life is a complicated puzzle.
+Seth MacFarlane,Ted,Comedy,2012,106,"Dream big, work hard."
+Martin McDonagh,Three Billboards Outside Ebbing Missouri,Crime,2017,115,Every picture tells a story.
+Richard Donner,Superman,Action,1978,143,Sometimes the answers lie within.
+Ridley Scott,Alien,Sci-Fi,1979,117,Redemption comes at a cost.
+Herbert Ross,Footloose,Musical,1984,107,True friendship is a rare gem.
+Sydney Pollack,Out of Africa,Biography,1985,161,The only limit is your imagination.
+Kenneth Branagh,Belfast,Drama,2021,98,Fate has a funny way of working things out.
+Tom McCarthy,Spotlight,Biography,2015,129,Discover the extraordinary in the ordinary.
+Peter Farrelly,Green Book,Biography,2018,130,Believe in the power of love.
+Jean-Marc Vallée,Dallas Buyers Club,Biography,2013,117,"Sometimes, adventure finds you."
+Woody Allen,Annie Hall,Comedy,1977,93,Live the life you love.
+Danny Boyle,Slumdog Millionaire,Romance,2008,120,Some stories are meant to be told.
+Joel Schumacher,Batman Forever,Action,1995,121,"Follow your heart, but take your brain with you."
+Robert Rodriguez,Sin City,Action,2005,124,"To be a hero, you must embrace the chaos."
+John Ford,The Searchers,Western,1956,119,"Life is a journey, not a destination."
+Mike Nichols,The Graduate,Comedy,1967,106,A world of adventure awaits.
+Terrence Malick,The Tree of Life,Fantasy,2011,139,Discover the beauty in every moment.
+Orson Welles,Citizen Kane,Mystery,1941,119,The answer lies within.
+Woody Allen,Midnight in Paris,Comedy,2011,94,"Sometimes, the greatest risk is taking a chance."
+Taika Waititi,Jojo Rabbit,Comedy,2019,108,Live life in full color.
+Todd Phillips,Joker,Crime,2019,122,The road to madness is paved with laughter.
+James Gunn,Guardians of the Galaxy,Action,2014,121,This is the way the world ends.
+Adam McKay,The Big Short,Comedy,2015,130,A complex web of lies leads to the truth.
+Sam Raimi,Spider-Man 2,Action,2004,127,With great power comes great responsibility.
+Michael Mann,Heat,Crime,1995,170,"In a world of crime, trust is a luxury."
+Terry Gilliam,Brazil,Sci-Fi,1985,132,Escape is just a state of mind.
+Steven Spielberg,E.T. the Extra-Terrestrial,Adventure,1982,115,A boy's journey to find his way home.
+Mel Brooks,Young Frankenstein,Horror,1974,106,It's alive!
